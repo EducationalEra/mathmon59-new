@@ -2,7 +2,7 @@
 
 # 8 клас
 
-## (70 год. I семестр — 32 год, 2 год на тиждень, <br> II семестр — 38 год, 2 год на тиждень)
+## (70 год. 2 год на тиждень, Резерв - 20 годин)
 
 <b>Зміст розділу:</b><br>
 
@@ -23,12 +23,6 @@
             <a href="kvadratny_ryvnyannya.html">
                     <b></b>
                 Квадратні рівняння
-            </a>
-    </li>
-    <li class="chapter " data-level="4" data-path="povtorennya_navchalnogo_materyaluhtml">
-            <a href="povtorennya_navchalnogo_materyaluhtml">
-                    <b></b>
-                Повторення і систематизація навчального матеріалу
             </a>
     </li>
 </ul>

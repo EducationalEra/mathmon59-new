@@ -2,33 +2,15 @@
 
 # 9 клас
 
-## (70 год. I семестр — 32 год, 2 год на тиждень, <br> II семестр — 38 год, 2 год на тиждень)
+## (70 год., 2 год на тиждень, Резерв - 20)
 
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="metod_koordynat.html">
-            <a href="metod_koordynat.html">
-                    <b></b>
-                Метод координат на площині
-            </a>
-    </li>
     <li class="chapter " data-level="2" data-path="vektory.html">
             <a href="vektory.html">
                     <b></b>
                 Вектори на площині
-            </a>
-    </li>
-    <li class="chapter " data-level="3" data-path="rozv_trykutnykyv.html">
-            <a href="rozv_trykutnykyv.html">
-                    <b></b>
-                Розв’язування трикутників
-            </a>
-    </li>
-    <li class="chapter " data-level="4" data-path="mnogokutnykihtml">
-            <a href="mnogokutnykihtml">
-                    <b></b>
-                Правильні многокутники. Довжина кола. Площа круга
             </a>
     </li>
     <li class="chapter " data-level="5" data-path="geometrychny_peretvorennya.html">
@@ -37,10 +19,10 @@
                 Геометричні перетворення
             </a>
     </li>
-    <li class="chapter " data-level="6" data-path="povtorennya_navchalnogo_materyaluhtml">
-            <a href="povtorennya_navchalnogo_materyaluhtml">
+    <li class="chapter " data-level="4" data-path="mnogokutnyki.html">
+            <a href="mnogokutnyki.html">
                     <b></b>
-                Повторення і систематизація навчального матеріалу
+                Многокутники. Площа
             </a>
     </li>
 </ul>

@@ -2,7 +2,7 @@
 
 # 6 клас
 
-## (140 год. I семестр — 64 год, 4 год на тиждень, <br> II семестр — 76 год, 4 год на тиждень)
+## (140 год. 4 год на тиждень, Резерв - 40 годин)
 
 <b>Зміст розділу:</b><br>
 
@@ -29,12 +29,6 @@
             <a href="rac_chisla.html">
                     <b></b>
                 Раціональні числа та дії з ними
-            </a>
-    </li>
-    <li class="chapter " data-level="5" data-path="povtorennya_navchalnogo_materyalu.html">
-            <a href="povtorennya_navchalnogo_materyalu.html">
-                    <b></b>
-                Повторення і систематизація навчального матеріалу
             </a>
     </li>
 </ul>
