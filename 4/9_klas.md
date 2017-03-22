@@ -7,24 +7,9 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="2" data-path="vektory.html">
-            <a href="vektory.html">
-                    <b></b>
-                Вектори на площині
-            </a>
-    </li>
-    <li class="chapter " data-level="5" data-path="geometrychny_peretvorennya.html">
-            <a href="geometrychny_peretvorennya.html">
-                    <b></b>
-                Геометричні перетворення
-            </a>
-    </li>
-    <li class="chapter " data-level="4" data-path="mnogokutnyki.html">
-            <a href="mnogokutnyki.html">
-                    <b></b>
-                Многокутники. Площа
-            </a>
-    </li>
+    <li><a href="./vektory.md">Вектори на площині</a></li>
+    <li><a href="./geometrychny_peretvorennya.md">Геометричні перетворення</a></li>
+    <li><a href="./mnogokutnyki.md">Многокутники. Площа</a></li>
 </ul>
 
 <div class="js-hypercomments-container">

@@ -7,24 +7,9 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="rac_vyrazy.html">
-            <a href="rac_vyrazy.html">
-                    <b></b>
-                Раціональні вирази
-            </a>
-    </li>
-    <li class="chapter " data-level="2" data-path="kvadratny_koreny_diysni_chisla.html">
-            <a href="kvadratny_koreny_diysni_chisla.html">
-                    <b></b>
-                Квадратні корені. Дійсні числа
-            </a>
-    </li>
-    <li class="chapter " data-level="3" data-path="kvadratny_ryvnyannya.html">
-            <a href="kvadratny_ryvnyannya.html">
-                    <b></b>
-                Квадратні рівняння
-            </a>
-    </li>
+    <li><a href="./rac_vyrazy.md">Раціональні вирази</a></li>
+    <li><a href="./kvadratny_koreny_diysni_chisla.md">Квадратні корені. Дійсні числа</a></li>
+    <li><a href="./kvadratny_ryvnyannya.md">Квадратні рівняння</a></li>
 </ul>
 
 <div class="js-hypercomments-container">

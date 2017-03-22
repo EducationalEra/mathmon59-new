@@ -7,30 +7,10 @@
 <b>Зміст розділу:</b><br>
 
 <ul class="articles" type="disc">
-    <li class="chapter " data-level="1" data-path="metod_koordynat.html">
-        <a href="metod_koordynat.html">
-            <b></b>
-            Метод координат на площині
-        </a>
-    </li>
-<li class="chapter " data-level="1" data-path="chotyrykutnyky.html">
-        <a href="chotyrykutnyky.html">
-                <b></b>
-            Чотирикутники
-        </a>
-</li>
-<li class="chapter " data-level="2" data-path="podybnyst.html">
-        <a href="podybnyst.html">
-                <b></b>
-            Подібність трикутників
-        </a>
-</li>
-<li class="chapter " data-level="3" data-path="pryamokutny_trykutnyky.html">
-        <a href="pryamokutny_trykutnyky.html">
-                <b></b>
-            Розв’язування прямокутних трикутників
-        </a>
-</li>
+    <li><a href="./metod_koordynat.md">Метод координат на площині</a></li>
+    <li><a href="./chotyrykutnyky.md">Чотирикутники</a></li>
+    <li><a href="./podybnyst.md">Подібність трикутників</a></li>
+    <li><a href="./pryamokutny_trykutnyky.md">Розв’язування прямокутних трикутників</a></li>
 </ul>
 
 <div class="js-hypercomments-container">
